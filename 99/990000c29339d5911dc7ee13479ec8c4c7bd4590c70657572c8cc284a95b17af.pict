@@ -1,0 +1,15 @@
+// overview description file for cso_mirage.bsp
+global
+{
+ZOOM 0.91
+ORIGIN 192.00 64.50 1536.00
+ROTATED 1
+}
+
+layer {
+
+IMAGE "overviews/de_dust2_cs2.tga"
+HEIGHT -1.00
+
+}
+ 
